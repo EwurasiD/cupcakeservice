@@ -28,4 +28,4 @@ jobs:
         context: ./src
         push: true
         tags: ewurasid/cupcakeservice:latest
-        platforms: linux/arm64
+        
