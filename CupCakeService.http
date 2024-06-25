@@ -1,0 +1,6 @@
+@CupCakeService_HostAddress = http://localhost:5070
+
+GET {{CupCakeService_HostAddress}}/cupcake/
+Accept: application/json
+
+###
